@@ -16,9 +16,13 @@ This project implements an IoT-based system to monitor bus occupancy in real-tim
 ## Benefits  
 - Reduces overcrowding and improves passenger experience.  
 - Enhances route efficiency and fleet management.  
+
 - Provides data-driven insights for better transportation planning.  
 
 ## Future Improvements  
 - Integration with GPS for location-based analytics.  
 - Cloud-based storage for long-term data analysis.  
 - AI-based predictive modeling for demand forecasting.  
+
+
+ ![Screenshot 2025-02-10 at 11 52 37 AM](https://github.com/user-attachments/assets/dd51bd1d-d8b5-4fbb-b412-2bc0c815997e)
